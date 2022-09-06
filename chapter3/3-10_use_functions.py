@@ -1,0 +1,15 @@
+my_yearning = ['THU', 'London', 'Achievements', 'Norway']
+print(sorted(my_yearning))
+print("I really want go to" + my_yearning[1] + '.')
+my_yearning.append('Business')
+my_yearning.insert(0, 'Family')
+del my_yearning[2]
+print(my_yearning)
+thing = my_yearning.pop(-1)
+print("I want to do " + thing + "after graduation.")
+my_yearning.insert(-1, thing)
+my_yearning.reverse()
+print(my_yearning)
+my_yearning.sort()
+print(my_yearning)
+print(len(my_yearning))

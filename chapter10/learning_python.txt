@@ -1,0 +1,3 @@
+In Python you can learn how to use array.
+In Python you can learn how to use adictionary.
+In Python you can learn how to use function.
